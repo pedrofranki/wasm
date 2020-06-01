@@ -1,0 +1,15 @@
+{
+  "name": "wasm-example",
+  "collaborators": [
+    "pedrofranki <pedrofranki2@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_example_bg.wasm",
+    "wasm_example.js",
+    "wasm_example.d.ts"
+  ],
+  "module": "wasm_example.js",
+  "types": "wasm_example.d.ts",
+  "sideEffects": false
+}
